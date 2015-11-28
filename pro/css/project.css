@@ -1,0 +1,41 @@
+.container{
+    /*width: 960px;*/
+    margin: 0 auto;
+    width: 868px;
+    border: 1px solid red;
+    overflow: hidden;
+}
+body,ul,li{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+.main li{
+    float: left;
+    width: 270px;
+    font-size: 12px;
+}
+.main li{
+    margin-right: 28px;
+}
+.main p{
+    margin: 0;
+    line-height: 25px;
+}
+.main div{
+    border: 1px solid #cccccc;
+    height: 270px;
+    border-radius: 5px;
+}
+.main a{
+    color: #44a7bb;
+    text-decoration: none;
+}
+.title{
+    font-weight: 600;
+}
+.main .right{
+    margin: 0;
+}
