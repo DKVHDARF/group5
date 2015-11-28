@@ -1,0 +1,9 @@
+网页宽度统一为960px
+
+樊鹏飞 index，导航栏和底部，我一起做了，大家可以不写
+薛尚科 about
+缪志成 clients
+杨金凤 project
+何西 services
+彭怡 contacts
+
