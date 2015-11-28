@@ -1,4 +1,6 @@
 .content{
     width: 960px;
-
+     height: 493px;
+    margin: 73px auto;
+    background: url("../images/main.jpg") repeat;
 }
