@@ -12,6 +12,10 @@ body,ul,li{
 ul{
     list-style: none;
 }
+.main{
+    margin-bottom: 35px;
+    overflow: hidden;
+}
 .main li{
     float: left;
     width: 270px;
@@ -28,6 +32,7 @@ ul{
     border: 1px solid #cccccc;
     height: 270px;
     border-radius: 5px;
+    overflow: hidden;
 }
 .main a{
     color: #44a7bb;
