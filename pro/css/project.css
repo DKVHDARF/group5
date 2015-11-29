@@ -1,0 +1,49 @@
+
+.container{
+    margin: 0 auto;
+    width: 888px;
+    font-family: Arial;
+    overflow: hidden;
+}
+body,ul,li{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+.main{
+    margin-bottom: 35px;
+    overflow: hidden;
+}
+.main li{
+    float: left;
+    width: 277px;
+    font-size: 13px;
+}
+.container h2{
+    font-weight: 400;
+}
+.main li{
+    margin-right: 28px;
+}
+.main p{
+    margin: 0;
+    line-height: 25px;
+}
+.main div{
+    border: 2px solid #eeeeee;
+    height: 270px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.main a{
+    color: #44a7bb;
+    text-decoration: none;
+}
+.title{
+    font-weight: 600;
+}
+.main .right{
+    margin: 0;
+}
