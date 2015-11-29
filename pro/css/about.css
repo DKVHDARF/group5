@@ -1,0 +1,95 @@
+body{
+    background: #F8F8FA;
+}
+p{
+    margin: 0;
+}
+.body_container{
+    width: 900px;
+    margin: 0 auto;
+    font-family: "Arial";
+    font-size: 14px;
+    line-height: 25px;
+    padding: 30px;
+    overflow: hidden;
+}
+.top_container{
+    overflow: hidden;
+}
+.who{
+    width: 300px;
+    float: left;
+}
+.who div{
+    height: 430px;
+}
+.who img{
+    border: 5px solid #EBEBEC;
+    border-radius: 6px;
+}
+strong{
+    color: #44A7BB;
+}
+button{
+    width: 72px;
+    height: 30px;
+    color: white;
+    background: #55B7C8;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.our{
+    width: 300px;
+    float: left;
+}
+.our div{
+    height: 430px;
+}
+.our p{
+    overflow: hidden;
+}
+.our p strong{
+    float: left;
+    clear: both;
+}
+.our p span{
+    display: block;
+    width: 250px;
+    float: right;
+}
+.job{
+    width: 275px;
+    float: left;
+}
+.job div{
+    height: 473px;
+}
+.job ul{
+    list-style: none;
+    padding: 0;
+}
+.job ul li{
+    margin: 15px;
+    background: url("../images/marker.gif") no-repeat 0 10px;
+    padding-left: 20px;
+}
+.professionals{
+    margin-top: 60px;
+}
+.professionals ul{
+    list-style: none;
+    padding: 0;
+}
+.professionals ul li{
+    width: 210px;
+    float: left;
+}
+.professionals ul li:not(:last-child){
+    margin-right: 20px;
+}
+.professionals ul li img{
+    border: 5px solid #EBEBEC;
+    border-radius: 6px;
+}
