@@ -3,7 +3,9 @@
      height: 503px;
     margin: 171px auto;
     background: url("../images/main.jpg") repeat;
+
 }
+.header{margin: -130px 0 20px 0}
 .contentleft{
     width: 285px;
 
