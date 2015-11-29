@@ -1,8 +1,26 @@
+body{margin: 0;background: url("../images/main.jpg")}
+ul{margin: 0;padding: 0;}
+li{list-style: none;float: left}
+/*头部*/
+.all{margin: 0 auto;width: 960px;}
+.header{border: 1px;margin: 30px 0 20px 0;overflow: hidden}
+.inp {float: right;padding: 5px 10px 0;border-radius: 4px;border: 1px solid #b8b8b8;width: 200px;margin-top: 30px}
+.inp input {border: none;outline: medium;background: transparent;}
+.inp a{width: 16px;height: 29px;background: url("../images/search-button.png") no-repeat;float: right}
+/*导航*/
+.nav{width: 954px;overflow: hidden;background: #60BDCE;vertical-align: middle;border-radius: 10px;border: 3px solid #cdcdce
+}
+.nav li{padding: 20px 20px;color: white;font-weight: bold;border-right:1px solid #53B2C3;border-left:1px solid #82CEDA;font-size: 14px;cursor: pointer}
+.first{background: #2E2E2E}
+.last{width: 350px;text-align: right}
+.last img{vertical-align: middle;margin: 0 0 0 10px;}
+
+
 .content{
     width: 960px;
-     height: 503px;
-    margin: 171px auto;
-    background: url("../images/main.jpg") repeat;
+     height: 550px;
+    margin: -25px auto;
+
 }
 .contentleft{
     width: 285px;
@@ -168,3 +186,7 @@ width: 597px;
 
 
 }
+.footer{background: #000000;padding: 20px 0}
+.footer div{width: 960px;margin: 0 auto;color: #ffffff;text-align: center;font-size: 14px}
+.footer span{color: #53B2C3}
+.footer p{margin: 10px 0}
