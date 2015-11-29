@@ -1,0 +1,46 @@
+/*init*/
+body{margin: 0;background: url("../images/main.jpg")}
+ul{margin: 0;padding: 0;}
+li{list-style: none;float: left}
+/*头部*/
+.all{margin: 0 auto;width: 960px;}
+.header{border: 1px;margin: 30px 0 20px 0;overflow: hidden}
+.inp {float: right;padding: 5px 10px 0;border-radius: 4px;border: 1px solid #b8b8b8;width: 200px;margin-top: 30px}
+.inp input {border: none;outline: medium;background: transparent;}
+.inp a{width: 16px;height: 29px;background: url("../images/search-button.png") no-repeat;float: right}
+/*导航*/
+.nav{width: 954px;overflow: hidden;background: #60BDCE;vertical-align: middle;border-radius: 10px;border: 3px solid #cdcdce
+}
+.nav li{padding: 20px 20px;color: white;font-weight: bold;border-right:1px solid #53B2C3;border-left:1px solid #82CEDA;font-size: 14px;cursor: pointer}
+.first{background: #2E2E2E}
+.last{width: 350px;text-align: right}
+.last img{vertical-align: middle;margin: 0 0 0 10px;}
+
+/*轮播*/
+.slide{width: 954px;overflow: hidden;background: #ffffff;vertical-align: middle;border-radius: 10px;border: 3px solid #cdcdce;height: 393px;margin: 20px 0}
+.slide img{width: 100%}
+
+/*intro*/
+.intro{width: 95%;overflow: hidden;margin: auto}
+.intro span{color: #69C1D0}
+.intro p{line-height: 20px}
+
+/*border_fix*/
+.border_fix{width: 100%;border-top: 1px solid #E1E1E1;border-bottom:1px solid #ffffff;margin: 20px 0}
+
+/*show1*/
+.show1{width: 95%;overflow: hidden;margin: auto}
+.show1 li{width: 30%;float: left;margin-right: 3%}
+.show1 img{border-radius: 10px;border: 3px solid #cdcdce;}
+.show1 input{background: #55B7C8;border: none ;padding: 10px 20px;border-radius: 4px;color: #ffffff}
+
+/*show2*/
+.show2{width: 95%;overflow: hidden;margin: 50px auto}
+.show2 li{width: 45%;float: left;margin-right: 5%}
+.show2 input{background: #55B7C8;border: none ;padding: 10px 20px;border-radius: 4px;color: #ffffff}
+
+/*底部*/
+.footer{background: #000000;padding: 20px 0}
+.footer div{width: 960px;margin: 0 auto;color: #ffffff;text-align: center;font-size: 14px}
+.footer span{color: #53B2C3}
+.footer p{margin: 10px 0}
